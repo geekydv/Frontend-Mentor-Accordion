@@ -2,7 +2,12 @@
 Checkout the final result @ https://geekydv.github.io/Frontend-Mentor-Accordion/
 
 ## Screenshot:
-![screenshot](https://user-images.githubusercontent.com/46958933/135122749-9a54d65d-3657-46ba-a9e5-e94f6eeeebd8.JPG)
+Desktop Version: \
+![screenshot](https://user-images.githubusercontent.com/46958933/135122749-9a54d65d-3657-46ba-a9e5-e94f6eeeebd8.JPG) \
+
+Mobile Version: \
+![mobiless](https://user-images.githubusercontent.com/46958933/135123858-a957e382-c437-457a-b981-ec9352656c21.JPG) \
+
 ## Tech Stack Used:
 
 HTML \
