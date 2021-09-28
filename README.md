@@ -5,10 +5,10 @@ Checkout the final result @ https://geekydv.github.io/Frontend-Mentor-Accordion/
 ![screenshot](https://user-images.githubusercontent.com/46958933/135122749-9a54d65d-3657-46ba-a9e5-e94f6eeeebd8.JPG)
 ## Tech Stack Used:
 
-HTML
-CSS
-JavaScript
-IDE: Visual Code
+HTML \
+CSS \
+JavaScript \
+IDE: Visual Code \
 Resources provided by Frontend Mentor
 
 ## Challenge:
