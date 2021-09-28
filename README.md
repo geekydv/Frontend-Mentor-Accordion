@@ -17,7 +17,7 @@ IDE: Visual Code \
 Resources provided by Frontend Mentor
 
 ## Challenge:
-
+<a href="https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam">FAQ Accordion Challenge</a>
 The challenge is to build out this FAQ accordion card and get it looking as close to the design as possible.
 
 The users should be able to:
